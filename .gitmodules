@@ -1,0 +1,6 @@
+[submodule "image-api"]
+	path = image-api
+	url = git@github.com:occasl/image-api.git
+[submodule "file-api"]
+	path = file-api
+	url = git@github.com:occasl/file-api.git
